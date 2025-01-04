@@ -5,6 +5,8 @@ In my case, I wanted store credit from each website. You would have to investiga
 
 The scraper can be inconsistent for ABU Games and Cape Fear Games. The former lists foreign versions of high value cards, which causes wrapping onto an additional page that my scraper does not see. The latter uses fuzzy matching in the buylist search, and the similar results can also push the results you want onto a hidden additional page. Additionally, those websites don’t always display the collector number, which is helpful on cards with multiple treatments. 
 
+Truncated versions of the SCG buylist and my collection are included for reference. I made the MTG Set and Code spreadsheet from Wikipedia.
+
 Known limitations:
 
 -Cards beyond the first page of searches
