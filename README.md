@@ -6,6 +6,7 @@ In my case, I wanted store credit from each website. You would have to investiga
 The scraper can be inconsistent for ABU Games and Cape Fear Games. The former lists foreign versions of high value cards, which causes wrapping onto an additional page that my scraper does not see. The latter uses fuzzy matching in the buylist search, and the similar results can also push the results you want onto a hidden additional page. Additionally, those websites don’t always display the collector number, which is helpful on cards with multiple treatments. 
 
 Known limitations:
+
 -Cards beyond the first page of searches
 
 -Cards with non-Latin characters (usually from the Lord of the Rings set – change your accented letters to normal letters in the spreadsheet and they work fine)
