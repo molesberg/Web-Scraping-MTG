@@ -1,5 +1,5 @@
 # Web-Scraping-MTG
-A project in September – November 2024. I decided to sell most of my Magic: the Gathering collection, and I wanted to figure out where I could get the most value from. I built my collection out in Moxfield and downloaded it as a spreadsheet. Then I identified several websites which have buylists listed online and built a web scraper for each and a system to tell me which card to sell to which site. 
+A project in September – November 2024. I decided to sell most of my Magic: the Gathering collection, and I wanted to figure out where I could get the most value. I built my collection out in Moxfield and downloaded it as a spreadsheet. Then I identified several websites which have buylists listed online and built a web scraper for each and a system to tell me which card to sell to which site. 
 
 In my case, I wanted store credit from each website. You would have to investigate the HTML to find the cash section if you wanted to be paid out in cash instead. 
 
