@@ -7,6 +7,9 @@ The scraper can be inconsistent for ABU Games and Cape Fear Games. The former li
 
 Known limitations:
 -Cards beyond the first page of searches
+
 -Cards with non-Latin characters (usually from the Lord of the Rings set – change your accented letters to normal letters in the spreadsheet and they work fine)
+
 -Promos and tokens (because Moxfield lists them as a different set than the websites use)
+
 -I’m assuming you’re selling all Near Mint cards or don’t care if one website gives a worse price for near mint but a better price for played.
